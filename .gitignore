@@ -1,0 +1,10 @@
+server/node_modules/
+server/.env
+# Optional, if you add build folders later
+dist/
+build/
+# Common OS/Editor files
+.DS_Store
+.vscode/
+# NPM debug logs
+npm-debug.log
